@@ -1,0 +1,1 @@
+mvn -D clean test
