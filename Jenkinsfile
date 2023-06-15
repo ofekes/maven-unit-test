@@ -11,9 +11,9 @@ pipeline {
                 // If Maven was able to run the tests, even if some of the test
                 // failed, record the test results and archive the jar file.
                 success { allure([
-                    includeProperties: true,
+                    includeProperties: false,
                     jdk: '',
-                    properties: [[Environment: "Ofer Test"]],
+                    properties: [],
                     reportBuildPolicy: 'ALWAYS',
                     results: [[path: 'target/surefire-reports']]
                 ])
