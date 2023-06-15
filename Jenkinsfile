@@ -13,7 +13,7 @@ pipeline {
                 success { allure([
                     includeProperties: false,
                     jdk: '',
-                     properties: [Environment="Ofer Test"],
+                     properties: [[Environment: "Ofer Test"]],
                     reportBuildPolicy: 'ALWAYS',
                     results: [[path: 'target/surefire-reports']]
                 ])
