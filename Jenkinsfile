@@ -13,7 +13,7 @@ pipeline {
                 success { allure([
                     includeProperties: false,
                     jdk: '',
-                    properties: [[name: 'key1', value: 'value1'], [name: 'key2', value: 'value2']].
+                    properties: [[name: 'key1', value: 'value1'], [name: 'key2', value: 'value2']],
                     reportBuildPolicy: 'ALWAYS',
                     results: [[path: 'target/surefire-reports']]
                 ])
