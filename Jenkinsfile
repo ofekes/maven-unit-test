@@ -11,7 +11,7 @@ pipeline {
                 // If Maven was able to run the tests, even if some of the test
                 // failed, record the test results and archive the jar file.
                 success { allure([
-                    includeProperties: false,
+                    includeProperties: true,
                     jdk: '',
                     properties: [[name: 'key1', value: 'value1'], [name: 'key2', value: 'value2']],
                     reportBuildPolicy: 'ALWAYS',
