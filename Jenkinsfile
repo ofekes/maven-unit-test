@@ -3,11 +3,9 @@ pipeline {
  
     stages {
         stage('Clean Workspace') {
-            wrappers {
-                preBuildCleanup {
-                cleanupParameter('CLEANUP')
-                }
-            }
+          preBuildCleanup {
+          cleanupParameter('CLEANUP')
+          }
         }
         stage('Test') {
             steps {
