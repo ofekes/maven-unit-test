@@ -2,12 +2,10 @@ pipeline {
     agent any
  
     stages {
-        stage('Clean Workspace') {
-        cleanWs()
-        }
         stage('Test') {
             steps {
                 sh 'mvn -D clean test'
+                 cleanWs()
             }
  
             post {                
