@@ -2,6 +2,13 @@ pipeline {
     agent any
  
     stages {
+        stage('Clean Workspace') {
+            wrappers {
+                preBuildCleanup {
+                cleanupParameter('CLEANUP')
+                }
+            }
+        }
         stage('Test') {
             steps {
                 sh 'mvn -D clean test'
