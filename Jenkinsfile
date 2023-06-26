@@ -4,6 +4,8 @@ pipeline {
     stages {
         stage('Test') {
             steps {
+                cleanWs()
+                checkout scm
                 sh 'mvn -D clean test'
             }
  
