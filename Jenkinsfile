@@ -3,9 +3,7 @@ pipeline {
  
     stages {
         stage('Clean Workspace') {
-          preBuildCleanup {
-          cleanupParameter('CLEANUP')
-          }
+        cleanWs()
         }
         stage('Test') {
             steps {
