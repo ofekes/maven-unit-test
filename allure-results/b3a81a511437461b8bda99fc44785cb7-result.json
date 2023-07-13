@@ -1,0 +1,87 @@
+{
+  "uuid": "8bce97dc-6b75-46af-a03a-6235563f2a20-tr-0-1010",
+  "historyId": "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-6875982d-e4f9-4a5f-ae04-ead590ecbca7-22-wgqrm"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.FlowMatrixServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "MultipleFlowMatrixMultiPositionsTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Multiple Flow Matrix With Multiple Partial Close Positions (Buy/Sell)"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Multiple Flow Matrix With 3 Published Partial Close Buy Positions With Different Key"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-36921",
+      "url": "QARD-36921",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-36921\nSingle Flow Matrix With Multiple Positions Test Cases\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "2c0bdd53696041cb974661b509829f0b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689169163432,
+      "stop": 1689169223474
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689169163432,
+  "stop": 1689169223474
+}

@@ -1,0 +1,87 @@
+{
+  "uuid": "8aee8a88-c003-4f50-89ce-8f26783231d9-tr-0-1024",
+  "historyId": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-42dca47d-e765-46a2-a264-8d0c29cd90fd-kv-fhb7r"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.FlowMatrixServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "SingleFlowMatrixMultiPositionsTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Single Flow Matrix With Multiple Open Positions (Buy/Sell)"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Single Flow Matrix With 3 Published Open Sell Positions With Same Key"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-37911",
+      "url": "QARD-37911",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-37911\nSingle Flow Matrix With Multiple Positions Test Cases\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9bd3af6ed2fe454f9c99203181a6367f-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689166757809,
+      "stop": 1689166817832
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689166757809,
+  "stop": 1689166817832
+}

@@ -1,0 +1,87 @@
+{
+  "uuid": "26597578-6c95-4a14-b51d-5f36c492c9b1-tr-0-1031",
+  "historyId": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-6875982d-e4f9-4a5f-ae04-ead590ecbca7-22-wgqrm"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.FlowMatrixServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "SingleFlowMatrixSinglePositionTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Flow Matrix Service With Single Open Position Buy/Sell"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Flow Matrix With Publish Single Open Buy Position"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-36880",
+      "url": "QARD-36880",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-36880\nSingle Flow Matrix With Single Position\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "a652a7d4214b4494bac958a6b42d5078-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689169817261,
+      "stop": 1689169877283
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689169817261,
+  "stop": 1689169877284
+}

@@ -1,0 +1,37 @@
+--------------------------------------------------------
+in BaseSetUp
+--------------------------------------------------------
+InitFlowMatrixConsumer
+in FlowMatrixTestsSetUp
+TestStart time : 07/12/2023 13:26:28
+positionDateTime : 07/12/2023 13:26:28
+in wait for 0 seconds, time now is: 07/12/2023 13:26:28
+Done waiting for 0 seconds, time now is: 07/12/2023 13:26:28
+First position with InstrumentID = 711972
+Send first position 07/12/2023 13:26:28
+Waiting for 3 seconds, time now is: 07/12/2023 13:26:28, message: Wait 3 sec after publishing the first position 07/12/2023 13:26:28
+Done waiting for 3 seconds, time now is: 07/12/2023 13:26:31
+Second position with InstrumentID = 885475
+Send second position 07/12/2023 13:26:31
+Waiting for 3 seconds, time now is: 07/12/2023 13:26:31, message: Wait 3 sec after publishing the second position 07/12/2023 13:26:31
+Done waiting for 3 seconds, time now is: 07/12/2023 13:26:34
+Third position with InstrumentID = 885475
+Send third position 07/12/2023 13:26:34
+Send Dummy
+Round time in dummy from 07/12/2023 13:26:28 to 07/12/2023 13:27:00
+Waiting for 40 seconds, time now is: 07/12/2023 13:26:34, message: Wait Dummy untill 07/12/2023 13:27:15
+Done waiting for 40 seconds, time now is: 07/12/2023 13:27:14
+Send Dummy, time now: 07/12/2023 13:27:14
+Dummy details : 
+testPositionDateTime is: 07/12/2023 13:26:28 
+nextMinutePositionsTime is: 07/12/2023 13:27:00 
+releasePositionsTime is: 07/12/2023 13:27:15
+ 
+FlowMatrix Partition Count : 2
+Dummy InstrumentID =  : 711972
+Waiting for 3 seconds, time now is: 07/12/2023 13:27:14, message: After publishing Dummy 07/12/2023 13:27:14
+Done waiting for 3 seconds, time now is: 07/12/2023 13:27:17
+Send second dummy position 07/12/2023 13:27:17
+Waiting for 3 seconds, time now is: 07/12/2023 13:27:17, message: Wait 3 sec after publishing the second position 07/12/2023 13:27:17
+Done waiting for 3 seconds, time now is: 07/12/2023 13:27:20
+

@@ -1,0 +1,87 @@
+{
+  "uuid": "c6d57ffb-b47e-47de-b6df-bd340fc7400e-tr-0-1029",
+  "historyId": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-6875982d-e4f9-4a5f-ae04-ead590ecbca7-22-wgqrm"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.FlowMatrixServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "SingleFlowMatrixMultiPositionsTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Single Flow Matrix With Open, Close, Partial Close Multiple Positions Buy And Sell"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Single Flow Matrix With Mix : 2 Open, 2 Close,2 Partial Close Positions With Same Key"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-36915",
+      "url": "QARD-36915",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-36915\nSingle Flow Matrix With Multiple Positions Test Cases\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "0a775c02da4547efad697960bcccc9ff-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689169637784,
+      "stop": 1689169697842
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689169637784,
+  "stop": 1689169697842
+}

@@ -1,0 +1,87 @@
+{
+  "uuid": "6cc396fc-46ab-4757-ba4b-3ecf80bc3634-tr-0-1017",
+  "historyId": "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-6875982d-e4f9-4a5f-ae04-ead590ecbca7-22-wgqrm"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.FlowMatrixServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "MultipleFlowMatrixMultiPositionsTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Multiple Flow Matrix With Multiple Positions (Buy/Sell)"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Multiple Flow Matrix With 2 Published Partial Close Buy With Same Key, 1 Open Buy Positions With Different Key"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-36933",
+      "url": "QARD-36933",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-36933\nSingle Flow Matrix With Multiple Positions Test Cases\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c9d92b96d8ea42a68559afa1a43f40fd-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689168800167,
+      "stop": 1689168860203
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689168800167,
+  "stop": 1689168860203
+}

@@ -1,0 +1,87 @@
+{
+  "uuid": "4162315a-927c-420e-bf7c-b098108e1eab-tr-0-1034",
+  "historyId": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-42dca47d-e765-46a2-a264-8d0c29cd90fd-kv-fhb7r"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.FlowMatrixServiceTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "SingleFlowMatrixSinglePositionTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Flow Matrix With Single Close Position Buy/Sell"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Flow Matrix With Publish Single Close Sell Position"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-37503",
+      "url": "QARD-37503",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-37503\nSingle Flow Matrix With Single Position\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "30782b18f69948ab9da02994d8a73416-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689167057382,
+      "stop": 1689167117399
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689167057382,
+  "stop": 1689167117399
+}

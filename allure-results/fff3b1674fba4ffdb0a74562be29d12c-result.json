@@ -1,0 +1,87 @@
+{
+  "uuid": "f90e25ba-08bc-4110-80bd-ec1384b23e60-tr-0-1001",
+  "historyId": "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData",
+  "fullName": "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-42dca47d-e765-46a2-a264-8d0c29cd90fd-kv-fhb7r"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.TimeWindowTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData"
+    },
+    {
+      "name": "testClass",
+      "value": "TimeWindowTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Time Window"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Verify Single Flow Matrix With 3 Published Open Buy Positions With Same Key and one from them with 2 sec of Grace"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-36943",
+      "url": "QARD-36943",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData"
+  },
+  "stage": "finished",
+  "description": "QARD-36943\nTime Window Test Cases\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f330413df25f479bb1c789e1fe3534a2-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689167357886,
+      "stop": 1689167418107
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689167357886,
+  "stop": 1689167418107
+}

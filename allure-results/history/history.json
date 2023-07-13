@@ -1,0 +1,1986 @@
+{
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3OpenSellPositionDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "63431bca63e72b2c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/63431bca63e72b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070943471,
+        "stop" : 1689071003498,
+        "duration" : 60027
+      }
+    }, {
+      "uid" : "fcb9665b678170d8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/fcb9665b678170d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067043714,
+        "stop" : 1689067103737,
+        "duration" : 60023
+      }
+    }, {
+      "uid" : "2701c2203ee5699c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/2701c2203ee5699c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062603336,
+        "stop" : 1689062663361,
+        "duration" : 60025
+      }
+    }, {
+      "uid" : "af07c90d6b4a5244",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/af07c90d6b4a5244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057083051,
+        "stop" : 1689057143074,
+        "duration" : 60023
+      }
+    }, {
+      "uid" : "d668a53c6456a313",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/d668a53c6456a313",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050783124,
+        "stop" : 1689050843145,
+        "duration" : 60021
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing1OpenSell1PartialCloseBuySameKey1CloseSellPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "b421f451bdaeefda",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/b421f451bdaeefda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070343102,
+        "stop" : 1689070400143,
+        "duration" : 57041
+      }
+    }, {
+      "uid" : "17a965a9ed7d34fd",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/17a965a9ed7d34fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066443453,
+        "stop" : 1689066500483,
+        "duration" : 57030
+      }
+    }, {
+      "uid" : "91840cf18492b26a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/91840cf18492b26a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062003047,
+        "stop" : 1689062060078,
+        "duration" : 57031
+      }
+    }, {
+      "uid" : "b7ff2c6db9f07b8a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/b7ff2c6db9f07b8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056483780,
+        "stop" : 1689056540810,
+        "duration" : 57030
+      }
+    }, {
+      "uid" : "22f1aac42d931ada",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/22f1aac42d931ada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050183874,
+        "stop" : 1689050240899,
+        "duration" : 57025
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3CloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "9604a4f054e94e61",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/9604a4f054e94e61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070760367,
+        "stop" : 1689070823404,
+        "duration" : 63037
+      }
+    }, {
+      "uid" : "c0d188c2df826c38",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/c0d188c2df826c38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066860649,
+        "stop" : 1689066923669,
+        "duration" : 63020
+      }
+    }, {
+      "uid" : "fc289ce24d7c0eec",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/fc289ce24d7c0eec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062420252,
+        "stop" : 1689062483279,
+        "duration" : 63027
+      }
+    }, {
+      "uid" : "f6a529a14f2cfdd7",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/f6a529a14f2cfdd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056900970,
+        "stop" : 1689056963997,
+        "duration" : 63027
+      }
+    }, {
+      "uid" : "e59f851c31805be7",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/e59f851c31805be7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050600045,
+        "stop" : 1689050663071,
+        "duration" : 63026
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing1OpenBuy1CloseSell1PartialCloseBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "12f5931f18d610d0",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/12f5931f18d610d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070281040,
+        "stop" : 1689070343102,
+        "duration" : 62062
+      }
+    }, {
+      "uid" : "cfaeee7fde136e86",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/cfaeee7fde136e86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066380416,
+        "stop" : 1689066443453,
+        "duration" : 63037
+      }
+    }, {
+      "uid" : "20ef77a3305e3edc",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/20ef77a3305e3edc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689061941009,
+        "stop" : 1689062003047,
+        "duration" : 62038
+      }
+    }, {
+      "uid" : "511ddbe5b25ab0e5",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/511ddbe5b25ab0e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056420751,
+        "stop" : 1689056483780,
+        "duration" : 63029
+      }
+    }, {
+      "uid" : "9e9160194476b778",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/9e9160194476b778",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050120847,
+        "stop" : 1689050183874,
+        "duration" : 63027
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3OpenBuyPositionSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "d3680d3a9eaec371",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/d3680d3a9eaec371",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071237087,
+        "stop" : 1689071297121,
+        "duration" : 60034
+      }
+    }, {
+      "uid" : "5a3d4aaddaf02d41",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/5a3d4aaddaf02d41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067337127,
+        "stop" : 1689067397152,
+        "duration" : 60025
+      }
+    }, {
+      "uid" : "e1614c100be185e6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/e1614c100be185e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062897791,
+        "stop" : 1689062957820,
+        "duration" : 60029
+      }
+    }, {
+      "uid" : "f453d9a4f028704",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/f453d9a4f028704",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057377309,
+        "stop" : 1689057437336,
+        "duration" : 60027
+      }
+    }, {
+      "uid" : "2b615fedf5006064",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/2b615fedf5006064",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051077523,
+        "stop" : 1689051137546,
+        "duration" : 60023
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2PartialCloseBuySameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "8f6f5ffb7a63a61a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/8f6f5ffb7a63a61a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070640299,
+        "stop" : 1689070700333,
+        "duration" : 60034
+      }
+    }, {
+      "uid" : "aad52c642e0a4266",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/aad52c642e0a4266",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066740592,
+        "stop" : 1689066800620,
+        "duration" : 60028
+      }
+    }, {
+      "uid" : "4c0a04c111ecf873",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/4c0a04c111ecf873",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062300197,
+        "stop" : 1689062360225,
+        "duration" : 60028
+      }
+    }, {
+      "uid" : "9f1d1f39309a5b81",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/9f1d1f39309a5b81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056780917,
+        "stop" : 1689056840949,
+        "duration" : 60032
+      }
+    }, {
+      "uid" : "1711dfd033e33a1b",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/1711dfd033e33a1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050481000,
+        "stop" : 1689050540022,
+        "duration" : 59022
+      }
+    } ]
+  },
+  "UnrealizedCustomerTests.UnrealizedStreamingTests.Unrealized_WhenZeroPnLWithOpenPostion_PublishZeroPnL(0,1,1,1,1,1,1,1,1,0)" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "4586ae40f60e7e5a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/4586ae40f60e7e5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346173000,
+        "stop" : 1687346193000,
+        "duration" : 20000
+      }
+    }, {
+      "uid" : "c7aade58d69d6aa2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/c7aade58d69d6aa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346173000,
+        "stop" : 1687346193000,
+        "duration" : 20000
+      }
+    }, {
+      "uid" : "3b5d23b72c886662",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/3b5d23b72c886662",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346173000,
+        "stop" : 1687346193000,
+        "duration" : 20000
+      }
+    }, {
+      "uid" : "6d37e2525e47625c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/6d37e2525e47625c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346173000,
+        "stop" : 1687346193000,
+        "duration" : 20000
+      }
+    }, {
+      "uid" : "9c3e9b73e085b8a7",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/9c3e9b73e085b8a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346173000,
+        "stop" : 1687346193000,
+        "duration" : 20000
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingOpenSellPosition_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "8f76c189a36ba0e5",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/8f76c189a36ba0e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071717293,
+        "stop" : 1689071777319,
+        "duration" : 60026
+      }
+    }, {
+      "uid" : "ead80a67350585b8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/ead80a67350585b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067817669,
+        "stop" : 1689067877681,
+        "duration" : 60012
+      }
+    }, {
+      "uid" : "18df2604daf99365",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/18df2604daf99365",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063377328,
+        "stop" : 1689063437344,
+        "duration" : 60016
+      }
+    }, {
+      "uid" : "6573ff4d8fc85175",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/6573ff4d8fc85175",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057857818,
+        "stop" : 1689057917834,
+        "duration" : 60016
+      }
+    }, {
+      "uid" : "fa874c3df0edd326",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/fa874c3df0edd326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051557167,
+        "stop" : 1689051617183,
+        "duration" : 60016
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3OpenBuyPositionDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "482b0786b2d8bda7",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/482b0786b2d8bda7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070883438,
+        "stop" : 1689070943471,
+        "duration" : 60033
+      }
+    }, {
+      "uid" : "f33c01ed729047f0",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/f33c01ed729047f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066983691,
+        "stop" : 1689067043714,
+        "duration" : 60023
+      }
+    }, {
+      "uid" : "f62db7d5ddddc7ff",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/f62db7d5ddddc7ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062543315,
+        "stop" : 1689062603336,
+        "duration" : 60021
+      }
+    }, {
+      "uid" : "a54d9035399d61a2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/a54d9035399d61a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057023023,
+        "stop" : 1689057083051,
+        "duration" : 60028
+      }
+    }, {
+      "uid" : "c1035b587a02726c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/c1035b587a02726c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050723103,
+        "stop" : 1689050783124,
+        "duration" : 60021
+      }
+    } ]
+  },
+  "UnrealizedCustomerTests.UnrealizedStreamingTests.Unrealized_WhenNoOpenPotions_ClosePnL(0,0,0,1,3,1,6,4.6d,3.1d)" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "b2893bb35854f27a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/b2893bb35854f27a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346127000,
+        "stop" : 1687346154000,
+        "duration" : 27000
+      }
+    }, {
+      "uid" : "c7527958cb91140a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/c7527958cb91140a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346127000,
+        "stop" : 1687346154000,
+        "duration" : 27000
+      }
+    }, {
+      "uid" : "c47c6cc1273c46b9",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/c47c6cc1273c46b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346127000,
+        "stop" : 1687346154000,
+        "duration" : 27000
+      }
+    }, {
+      "uid" : "28da8a929f4a29c6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/28da8a929f4a29c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346127000,
+        "stop" : 1687346154000,
+        "duration" : 27000
+      }
+    }, {
+      "uid" : "cd856a139c474998",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/cd856a139c474998",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346127000,
+        "stop" : 1687346154000,
+        "duration" : 27000
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingCloseBuyPosition_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "b8e7d80232347f8d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/b8e7d80232347f8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071538040,
+        "stop" : 1689071597252,
+        "duration" : 59212
+      }
+    }, {
+      "uid" : "3b8bcc27347eced8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/3b8bcc27347eced8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067637458,
+        "stop" : 1689067697631,
+        "duration" : 60173
+      }
+    }, {
+      "uid" : "cd46371b222d6bdb",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/cd46371b222d6bdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063198121,
+        "stop" : 1689063257295,
+        "duration" : 59174
+      }
+    }, {
+      "uid" : "b17162d1a44694a1",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/b17162d1a44694a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057678570,
+        "stop" : 1689057737785,
+        "duration" : 59215
+      }
+    }, {
+      "uid" : "1c7175317e3edc96",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/1c7175317e3edc96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051377968,
+        "stop" : 1689051438131,
+        "duration" : 60163
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishing3OpenBuyPositionsWithSameKeyAndOneFromThemPublishingWith2SecOfGrace_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "a801fbaf79840ff6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/a801fbaf79840ff6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071897628,
+        "stop" : 1689071957733,
+        "duration" : 60105
+      }
+    }, {
+      "uid" : "f3c7bfcb38d7f080",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/f3c7bfcb38d7f080",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067997922,
+        "stop" : 1689068058026,
+        "duration" : 60104
+      }
+    }, {
+      "uid" : "a1f2d0dbabc324de",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/a1f2d0dbabc324de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063557571,
+        "stop" : 1689063617679,
+        "duration" : 60108
+      }
+    }, {
+      "uid" : "3032963607ebcbc",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/3032963607ebcbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689058038103,
+        "stop" : 1689058097216,
+        "duration" : 59113
+      }
+    }, {
+      "uid" : "fe8c85657fbc480d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/fe8c85657fbc480d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051737429,
+        "stop" : 1689051797526,
+        "duration" : 60097
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "c311a8e8f0820fe2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/c311a8e8f0820fe2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071003498,
+        "stop" : 1689071063533,
+        "duration" : 60035
+      }
+    }, {
+      "uid" : "7fea846ffeb429e4",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/7fea846ffeb429e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067103737,
+        "stop" : 1689067163756,
+        "duration" : 60019
+      }
+    }, {
+      "uid" : "1360c3eeca6cf21c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/1360c3eeca6cf21c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062663362,
+        "stop" : 1689062723384,
+        "duration" : 60022
+      }
+    }, {
+      "uid" : "bd2fcd6f22fa1b42",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/bd2fcd6f22fa1b42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057143074,
+        "stop" : 1689057203098,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "c70b3e6c6d7a0ed",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/c70b3e6c6d7a0ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050843145,
+        "stop" : 1689050903169,
+        "duration" : 60024
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2CloseSellSameKey1PartialCloseBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "2bfe3cb8ffc7fa96",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/2bfe3cb8ffc7fa96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070460181,
+        "stop" : 1689070520217,
+        "duration" : 60036
+      }
+    }, {
+      "uid" : "c01ea288b949d77a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/c01ea288b949d77a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066560516,
+        "stop" : 1689066620545,
+        "duration" : 60029
+      }
+    }, {
+      "uid" : "d080618be0b2599d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/d080618be0b2599d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062120112,
+        "stop" : 1689062180146,
+        "duration" : 60034
+      }
+    }, {
+      "uid" : "695386d2a54072a2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/695386d2a54072a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056600836,
+        "stop" : 1689056660867,
+        "duration" : 60031
+      }
+    }, {
+      "uid" : "814f2c4dc85733bc",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/814f2c4dc85733bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050300927,
+        "stop" : 1689050360950,
+        "duration" : 60023
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingPartialCloseBuyPosition_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "e70defbec95d7119",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/e70defbec95d7119",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071777319,
+        "stop" : 1689071837435,
+        "duration" : 60116
+      }
+    }, {
+      "uid" : "dc3d656e552f10ea",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/dc3d656e552f10ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067877681,
+        "stop" : 1689067937769,
+        "duration" : 60088
+      }
+    }, {
+      "uid" : "fc9f22828a488259",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/fc9f22828a488259",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063437344,
+        "stop" : 1689063497432,
+        "duration" : 60088
+      }
+    }, {
+      "uid" : "1be62760a62c92d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/1be62760a62c92d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057917834,
+        "stop" : 1689057977926,
+        "duration" : 60092
+      }
+    }, {
+      "uid" : "e0a1411453495adf",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/e0a1411453495adf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051617183,
+        "stop" : 1689051677273,
+        "duration" : 60090
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing1OpenBuy1CloseBuySameKey1PartialCloseSellPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "9c40abb79af53b6a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/9c40abb79af53b6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070215959,
+        "stop" : 1689070281040,
+        "duration" : 65081
+      }
+    }, {
+      "uid" : "c495f487bfc33e98",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/c495f487bfc33e98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066321356,
+        "stop" : 1689066380416,
+        "duration" : 59060
+      }
+    }, {
+      "uid" : "efb30345fe948244",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/efb30345fe948244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689061880937,
+        "stop" : 1689061941008,
+        "duration" : 60071
+      }
+    }, {
+      "uid" : "f2d83cafa0d5fc66",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/f2d83cafa0d5fc66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056355664,
+        "stop" : 1689056420751,
+        "duration" : 65087
+      }
+    }, {
+      "uid" : "fa606200a8d69cf0",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/fa606200a8d69cf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050055767,
+        "stop" : 1689050120847,
+        "duration" : 65080
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3CloseSellPositionSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "14fdb37bb6fb9c91",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/14fdb37bb6fb9c91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071178050,
+        "stop" : 1689071237087,
+        "duration" : 59037
+      }
+    }, {
+      "uid" : "ef7dee93f4062db0",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/ef7dee93f4062db0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067278109,
+        "stop" : 1689067337127,
+        "duration" : 59018
+      }
+    }, {
+      "uid" : "716d938c6309a4bb",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/716d938c6309a4bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062837766,
+        "stop" : 1689062897791,
+        "duration" : 60025
+      }
+    }, {
+      "uid" : "536bc1b3382cc8f8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/536bc1b3382cc8f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057317282,
+        "stop" : 1689057377309,
+        "duration" : 60027
+      }
+    }, {
+      "uid" : "70e21ab35aea44e7",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/70e21ab35aea44e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051017505,
+        "stop" : 1689051077523,
+        "duration" : 60018
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2OpenBuySameKey1CloseSellPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "618e1edbd354cb90",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/618e1edbd354cb90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070520217,
+        "stop" : 1689070580254,
+        "duration" : 60037
+      }
+    }, {
+      "uid" : "d438be751a43ad31",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/d438be751a43ad31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066620545,
+        "stop" : 1689066680566,
+        "duration" : 60021
+      }
+    }, {
+      "uid" : "401e56a5822ff8d6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/401e56a5822ff8d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062180146,
+        "stop" : 1689062240173,
+        "duration" : 60027
+      }
+    }, {
+      "uid" : "6efe8482a51072d6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/6efe8482a51072d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056660867,
+        "stop" : 1689056720891,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "bd9aad8419fb7101",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/bd9aad8419fb7101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050360950,
+        "stop" : 1689050420974,
+        "duration" : 60024
+      }
+    } ]
+  },
+  "UnrealizedCustomerTests.UnrealizedStreamingTests.UnrealizedUsingRedisExposure_WhenRateSlim_PublishToKafkaAndUpdateDb(100,5,3,1,3,1,6,4.6d,3.1d)" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "1ce1ba502576858",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/1ce1ba502576858",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346193000,
+        "stop" : 1687346204000,
+        "duration" : 11000
+      }
+    }, {
+      "uid" : "fbd034249772f5ae",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/fbd034249772f5ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346193000,
+        "stop" : 1687346204000,
+        "duration" : 11000
+      }
+    }, {
+      "uid" : "7878a24b82493f5d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/7878a24b82493f5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346193000,
+        "stop" : 1687346204000,
+        "duration" : 11000
+      }
+    }, {
+      "uid" : "f21064921163b38d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/f21064921163b38d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346193000,
+        "stop" : 1687346204000,
+        "duration" : 11000
+      }
+    }, {
+      "uid" : "2062ef835a693707",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/2062ef835a693707",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346193000,
+        "stop" : 1687346204000,
+        "duration" : 11000
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing1CloseBuy1PartialCloseSellSameKey1OpenBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 10,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "bb577fff289b6b35",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/bb577fff289b6b35",
+      "status" : "failed",
+      "statusDetails" : "System.Exception : Failed to get data from: dealing-flow-matrix Kafka topic\nMessages result count: 0 Expected result count: 1",
+      "time" : {
+        "start" : 1689070140348,
+        "stop" : 1689070215956,
+        "duration" : 75608
+      }
+    }, {
+      "uid" : "dfd18b2ae82abf66",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/dfd18b2ae82abf66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066254731,
+        "stop" : 1689066321354,
+        "duration" : 66623
+      }
+    }, {
+      "uid" : "c40cbf24ba7ea229",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/c40cbf24ba7ea229",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689061809358,
+        "stop" : 1689061880935,
+        "duration" : 71577
+      }
+    }, {
+      "uid" : "5874934962f385e0",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/5874934962f385e0",
+      "status" : "failed",
+      "statusDetails" : "System.Exception : Failed to get data from: dealing-flow-matrix Kafka topic\nMessages result count: 0 Expected result count: 1",
+      "time" : {
+        "start" : 1689056265086,
+        "stop" : 1689056355662,
+        "duration" : 90576
+      }
+    }, {
+      "uid" : "53c7e1310f606e",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/53c7e1310f606e",
+      "status" : "failed",
+      "statusDetails" : "System.Exception : Failed to get data from: dealing-flow-matrix Kafka topic\nMessages result count: 0 Expected result count: 1",
+      "time" : {
+        "start" : 1689049966211,
+        "stop" : 1689050055765,
+        "duration" : 89554
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishingMixOfOpenClosePartialClosePositionsWithSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "3ac4551dc4aed09d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/3ac4551dc4aed09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071477301,
+        "stop" : 1689071537885,
+        "duration" : 60584
+      }
+    }, {
+      "uid" : "61222244a705989d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/61222244a705989d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067577284,
+        "stop" : 1689067637328,
+        "duration" : 60044
+      }
+    }, {
+      "uid" : "543763e0ccb77d0a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/543763e0ccb77d0a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063137955,
+        "stop" : 1689063198001,
+        "duration" : 60046
+      }
+    }, {
+      "uid" : "e2d5884beb130aef",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/e2d5884beb130aef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057617552,
+        "stop" : 1689057677600,
+        "duration" : 60048
+      }
+    }, {
+      "uid" : "483d78f37da073f",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/483d78f37da073f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051317684,
+        "stop" : 1689051377727,
+        "duration" : 60043
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "b821a9f12a316cf2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/b821a9f12a316cf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071957733,
+        "stop" : 1689072018718,
+        "duration" : 60985
+      }
+    }, {
+      "uid" : "193019c80ed97d1a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/193019c80ed97d1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689068058026,
+        "stop" : 1689068117176,
+        "duration" : 59150
+      }
+    }, {
+      "uid" : "49583fe906220ca8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/49583fe906220ca8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063617680,
+        "stop" : 1689063677845,
+        "duration" : 60165
+      }
+    }, {
+      "uid" : "d7d18fa7509c9fa6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/d7d18fa7509c9fa6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689058097216,
+        "stop" : 1689058157385,
+        "duration" : 60169
+      }
+    }, {
+      "uid" : "6791f1d45274ca3e",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/6791f1d45274ca3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051797526,
+        "stop" : 1689051857694,
+        "duration" : 60168
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2OpenSellSameKey1PartialCloseBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 22,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "aaa3defbc09e9b2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/aaa3defbc09e9b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070580255,
+        "stop" : 1689070640299,
+        "duration" : 60044
+      }
+    }, {
+      "uid" : "5c0c7e2e6a487a7b",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/5c0c7e2e6a487a7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066680566,
+        "stop" : 1689066740592,
+        "duration" : 60026
+      }
+    }, {
+      "uid" : "d576c89d307ff554",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/d576c89d307ff554",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062240173,
+        "stop" : 1689062300197,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "eafc0f9b2043a238",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/eafc0f9b2043a238",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056720891,
+        "stop" : 1689056780917,
+        "duration" : 60026
+      }
+    }, {
+      "uid" : "e81b6bb9760ded92",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/e81b6bb9760ded92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050420974,
+        "stop" : 1689050481000,
+        "duration" : 60026
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3OpenSellPositionSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "6c4f76e5298f10ec",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/6c4f76e5298f10ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071297121,
+        "stop" : 1689071357153,
+        "duration" : 60032
+      }
+    }, {
+      "uid" : "4f8177a23ee29c0d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/4f8177a23ee29c0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067397152,
+        "stop" : 1689067457171,
+        "duration" : 60019
+      }
+    }, {
+      "uid" : "f19540499dc17535",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/f19540499dc17535",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062957820,
+        "stop" : 1689063017841,
+        "duration" : 60021
+      }
+    }, {
+      "uid" : "e523a9ce82a96a04",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/e523a9ce82a96a04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057437336,
+        "stop" : 1689057497393,
+        "duration" : 60057
+      }
+    }, {
+      "uid" : "91fa675fa341f484",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/91fa675fa341f484",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051137546,
+        "stop" : 1689051197566,
+        "duration" : 60020
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.E2ETests.FlowMatrix_WhenPublishing1OpenBuy1CloseSell1PartialCloseBuyPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11fc5a832e84704a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/11fc5a832e84704a",
+      "status" : "failed",
+      "statusDetails" : "System.Exception : Failed to get data from: dealing-flow-matrix Kafka topic\nMessages result count: 0 Expected result count: 1",
+      "time" : {
+        "start" : 1689072693226,
+        "stop" : 1689072799054,
+        "duration" : 105828
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseBuyPositionSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "9b82b4fe9dd0b530",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/9b82b4fe9dd0b530",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071357153,
+        "stop" : 1689071417270,
+        "duration" : 60117
+      }
+    }, {
+      "uid" : "98bbf70c01571b8e",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/98bbf70c01571b8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067457171,
+        "stop" : 1689067517260,
+        "duration" : 60089
+      }
+    }, {
+      "uid" : "351b6b8c6a0ee7a4",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/351b6b8c6a0ee7a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063017841,
+        "stop" : 1689063077935,
+        "duration" : 60094
+      }
+    }, {
+      "uid" : "d7bd58ecd90c94bd",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/d7bd58ecd90c94bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057497394,
+        "stop" : 1689057557514,
+        "duration" : 60120
+      }
+    }, {
+      "uid" : "9d1119504a887430",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/9d1119504a887430",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051197566,
+        "stop" : 1689051257665,
+        "duration" : 60099
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingSinglePartialCloseSellPosition_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "e8163c53d00ebe75",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/e8163c53d00ebe75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071837435,
+        "stop" : 1689071897459,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "c7e16d74c6e46019",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/c7e16d74c6e46019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067937769,
+        "stop" : 1689067997783,
+        "duration" : 60014
+      }
+    }, {
+      "uid" : "aa28e3a287d9b057",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/aa28e3a287d9b057",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063497433,
+        "stop" : 1689063557451,
+        "duration" : 60018
+      }
+    }, {
+      "uid" : "bab9a9a98ec43ad6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/bab9a9a98ec43ad6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057977926,
+        "stop" : 1689058037941,
+        "duration" : 60015
+      }
+    }, {
+      "uid" : "35624e6919a65456",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/35624e6919a65456",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051677273,
+        "stop" : 1689051737287,
+        "duration" : 60014
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2PartialCloseSellSameKey1CloseSellPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 22,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "a404e8bdd9db4369",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/a404e8bdd9db4369",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070700334,
+        "stop" : 1689070760367,
+        "duration" : 60033
+      }
+    }, {
+      "uid" : "5b22a3a2304a629c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/5b22a3a2304a629c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066800620,
+        "stop" : 1689066860649,
+        "duration" : 60029
+      }
+    }, {
+      "uid" : "e54dbede403e4a09",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/e54dbede403e4a09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062360225,
+        "stop" : 1689062420252,
+        "duration" : 60027
+      }
+    }, {
+      "uid" : "773d016ae8a5c00c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/773d016ae8a5c00c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056840949,
+        "stop" : 1689056900970,
+        "duration" : 60021
+      }
+    }, {
+      "uid" : "2995da22053c1d3f",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/2995da22053c1d3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050540022,
+        "stop" : 1689050600045,
+        "duration" : 60023
+      }
+    } ]
+  },
+  "UnrealizedCustomerTests.UnrealizedStreamingTests.Unrealized_WhenTriggred_PublishToKafkaAndAddDb(100,5,3,1,3,1,6,4.6d,3.1d)" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "7930dc8fabea9d41",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/7930dc8fabea9d41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346154000,
+        "stop" : 1687346173000,
+        "duration" : 19000
+      }
+    }, {
+      "uid" : "6ba7ba667282363d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/6ba7ba667282363d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346154000,
+        "stop" : 1687346173000,
+        "duration" : 19000
+      }
+    }, {
+      "uid" : "675403bd5b8caf72",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/675403bd5b8caf72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346154000,
+        "stop" : 1687346173000,
+        "duration" : 19000
+      }
+    }, {
+      "uid" : "baf8d5ea325c4c8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/baf8d5ea325c4c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346154000,
+        "stop" : 1687346173000,
+        "duration" : 19000
+      }
+    }, {
+      "uid" : "ad0e7c4ebeceaa2e",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/ad0e7c4ebeceaa2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1687346154000,
+        "stop" : 1687346173000,
+        "duration" : 19000
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseSellPositionSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "67f3542cc9df1629",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/67f3542cc9df1629",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071417270,
+        "stop" : 1689071477301,
+        "duration" : 60031
+      }
+    }, {
+      "uid" : "32d4cc71b3eb7c7c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/32d4cc71b3eb7c7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067517260,
+        "stop" : 1689067577284,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "faec2d2630555e8f",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/faec2d2630555e8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063077935,
+        "stop" : 1689063137955,
+        "duration" : 60020
+      }
+    }, {
+      "uid" : "d1b40739ba97d125",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/d1b40739ba97d125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057557514,
+        "stop" : 1689057617552,
+        "duration" : 60038
+      }
+    }, {
+      "uid" : "ec268f477d9bdf84",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/ec268f477d9bdf84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051257665,
+        "stop" : 1689051317684,
+        "duration" : 60019
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3CloseSellPositionDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "c7db99751073d7b8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/c7db99751073d7b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070823404,
+        "stop" : 1689070883438,
+        "duration" : 60034
+      }
+    }, {
+      "uid" : "57eaf4543d8fdff8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/57eaf4543d8fdff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066923669,
+        "stop" : 1689066983691,
+        "duration" : 60022
+      }
+    }, {
+      "uid" : "5a4232df1f14dcdf",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/5a4232df1f14dcdf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062483279,
+        "stop" : 1689062543315,
+        "duration" : 60036
+      }
+    }, {
+      "uid" : "f7c14051e45cd187",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/f7c14051e45cd187",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056963997,
+        "stop" : 1689057023023,
+        "duration" : 59026
+      }
+    }, {
+      "uid" : "2b19d46481e4622b",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/2b19d46481e4622b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050663071,
+        "stop" : 1689050723103,
+        "duration" : 60032
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "aa7ce91ab8a226d4",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/aa7ce91ab8a226d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071657272,
+        "stop" : 1689071717293,
+        "duration" : 60021
+      }
+    }, {
+      "uid" : "6588ac8410051e9",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/6588ac8410051e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067757650,
+        "stop" : 1689067817669,
+        "duration" : 60019
+      }
+    }, {
+      "uid" : "8bc7b752c3eaccfa",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/8bc7b752c3eaccfa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063317314,
+        "stop" : 1689063377328,
+        "duration" : 60014
+      }
+    }, {
+      "uid" : "7e33e22f37fabf9c",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/7e33e22f37fabf9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057797803,
+        "stop" : 1689057857818,
+        "duration" : 60015
+      }
+    }, {
+      "uid" : "1025ed53cdf45c9b",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/1025ed53cdf45c9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051497151,
+        "stop" : 1689051557167,
+        "duration" : 60016
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3CloseBuyPositionSameKey_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "b42293a24e4280c1",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/b42293a24e4280c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071123843,
+        "stop" : 1689071178050,
+        "duration" : 54207
+      }
+    }, {
+      "uid" : "3b1c44a762a50101",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/3b1c44a762a50101",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067223940,
+        "stop" : 1689067278109,
+        "duration" : 54169
+      }
+    }, {
+      "uid" : "1384361a0ae47c92",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/1384361a0ae47c92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062783563,
+        "stop" : 1689062837766,
+        "duration" : 54203
+      }
+    }, {
+      "uid" : "ffb04f3f37f5313b",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/ffb04f3f37f5313b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057264107,
+        "stop" : 1689057317282,
+        "duration" : 53175
+      }
+    }, {
+      "uid" : "471d4223276cc466",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/471d4223276cc466",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050963328,
+        "stop" : 1689051017505,
+        "duration" : 54177
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingCloseSellPosition_VerifyFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "de7485789d99c313",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/de7485789d99c313",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071597252,
+        "stop" : 1689071657272,
+        "duration" : 60020
+      }
+    }, {
+      "uid" : "33aece7f767bc630",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/33aece7f767bc630",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067697631,
+        "stop" : 1689067757650,
+        "duration" : 60019
+      }
+    }, {
+      "uid" : "f63a114e18778a5a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/f63a114e18778a5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689063257295,
+        "stop" : 1689063317314,
+        "duration" : 60019
+      }
+    }, {
+      "uid" : "eb47a14281dfc7e6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/eb47a14281dfc7e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057737785,
+        "stop" : 1689057797803,
+        "duration" : 60018
+      }
+    }, {
+      "uid" : "242e04acb1ef3bd6",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/242e04acb1ef3bd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689051438131,
+        "stop" : 1689051497151,
+        "duration" : 59020
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseSellPositionDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "b7ba372512f9846a",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/b7ba372512f9846a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689071063533,
+        "stop" : 1689071123564,
+        "duration" : 60031
+      }
+    }, {
+      "uid" : "2e5e3ea7ff30b2c2",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/2e5e3ea7ff30b2c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689067163756,
+        "stop" : 1689067223780,
+        "duration" : 60024
+      }
+    }, {
+      "uid" : "c2922037ef2ceb3d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/c2922037ef2ceb3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062723384,
+        "stop" : 1689062783418,
+        "duration" : 60034
+      }
+    }, {
+      "uid" : "f4903bd70e4357e0",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/f4903bd70e4357e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689057203098,
+        "stop" : 1689057263127,
+        "duration" : 60029
+      }
+    }, {
+      "uid" : "748eca90168f4ea5",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/748eca90168f4ea5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050903169,
+        "stop" : 1689050963193,
+        "duration" : 60024
+      }
+    } ]
+  },
+  "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing2CloseBuySameKey1OpenSellPositionWithDifferentKey_VerifyMultipleFlowMatrixData" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 23,
+      "unknown" : 0,
+      "total" : 23
+    },
+    "items" : [ {
+      "uid" : "545e15fe5311bb2d",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure/#testresult/545e15fe5311bb2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689070400143,
+        "stop" : 1689070460181,
+        "duration" : 60038
+      }
+    }, {
+      "uid" : "3bacd565d1480c85",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure/#testresult/3bacd565d1480c85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689066500483,
+        "stop" : 1689066560516,
+        "duration" : 60033
+      }
+    }, {
+      "uid" : "d9bdf281d30f2af8",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure/#testresult/d9bdf281d30f2af8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689062060078,
+        "stop" : 1689062120112,
+        "duration" : 60034
+      }
+    }, {
+      "uid" : "78f9ad1846cb1111",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure/#testresult/78f9ad1846cb1111",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689056540810,
+        "stop" : 1689056600836,
+        "duration" : 60026
+      }
+    }, {
+      "uid" : "426c6ca103eb32c5",
+      "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure/#testresult/426c6ca103eb32c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1689050240900,
+        "stop" : 1689050300926,
+        "duration" : 60026
+      }
+    } ]
+  }
+}

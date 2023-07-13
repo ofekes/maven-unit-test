@@ -1,0 +1,58 @@
+{
+  "uuid": "1b8cf800-551a-4025-baed-0bae0accdf4b-tc-0-1005",
+  "name": "FlowMatrixServiceTests.FlowMatrixServiceTests.MultipleFlowMatrixMultiPositionsTests.FlowMatrix_WhenPublishing3PartialCloseBuyPositionDifferentKey_VerifyMultipleFlowMatrixData",
+  "children": [
+    "dfba6ea0-627c-45c3-885a-0342bc813a76-tr-0-1010"
+  ],
+  "befores": [
+    {
+      "name": "TestBaseInitOnce",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689166523220,
+      "stop": 1689166523220
+    },
+    {
+      "name": "SetupAsync",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689166523220,
+      "stop": 1689166523220
+    },
+    {
+      "name": "FlowMatrixTestsSetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689166523220,
+      "stop": 1689166523220
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1689166463191,
+  "stop": 1689166523221
+}

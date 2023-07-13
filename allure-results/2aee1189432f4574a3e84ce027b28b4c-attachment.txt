@@ -1,0 +1,25 @@
+--------------------------------------------------------
+in BaseSetUp
+--------------------------------------------------------
+InitFlowMatrixConsumer
+in FlowMatrixTestsSetUp
+TestStart time : 07/12/2023 14:36:24
+positionDateTime : 07/12/2023 14:36:24
+in wait for 0 seconds, time now is: 07/12/2023 14:36:24
+Done waiting for 0 seconds, time now is: 07/12/2023 14:36:24
+Close Position InstrumentID = 275461
+Send Dummy
+Round time in dummy from 07/12/2023 14:36:24 to 07/12/2023 14:37:00
+Waiting for 50 seconds, time now is: 07/12/2023 14:36:24, message: Wait Dummy untill 07/12/2023 14:37:15
+Done waiting for 50 seconds, time now is: 07/12/2023 14:37:14
+Send Dummy, time now: 07/12/2023 14:37:14
+Dummy details : 
+testPositionDateTime is: 07/12/2023 14:36:24 
+nextMinutePositionsTime is: 07/12/2023 14:37:00 
+releasePositionsTime is: 07/12/2023 14:37:15
+ 
+FlowMatrix Partition Count : 2
+Dummy InstrumentID =  : 275461
+Waiting for 3 seconds, time now is: 07/12/2023 14:37:14, message: After publishing Dummy 07/12/2023 14:37:14
+Done waiting for 3 seconds, time now is: 07/12/2023 14:37:17
+Finished Positive Test: Verify Flow Matrix Service With Publish Single Buy Close Position

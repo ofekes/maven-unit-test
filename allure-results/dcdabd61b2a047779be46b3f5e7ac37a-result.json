@@ -1,0 +1,87 @@
+{
+  "uuid": "4bbed54a-acd1-456e-bf5c-474e607dbf29-tr-0-1002",
+  "historyId": "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow",
+  "fullName": "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "systemtest-worker-6875982d-e4f9-4a5f-ae04-ead590ecbca7-22-wgqrm"
+    },
+    {
+      "name": "package",
+      "value": "FlowMatrixServiceTests.TimeWindowTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow"
+    },
+    {
+      "name": "testClass",
+      "value": "TimeWindowTests"
+    },
+    {
+      "name": "tag",
+      "value": "FUNCTIONALITY"
+    },
+    {
+      "name": "suite",
+      "value": "Time Window"
+    },
+    {
+      "name": "story",
+      "value": "Positive Test: Varify flow matrix output only for positions within TimeWindow, Positions before and after TimeWindow period are not included"
+    },
+    {
+      "name": "feature",
+      "value": "Flow Matrix Feature"
+    }
+  ],
+  "links": [
+    {
+      "name": "QARD-38847",
+      "url": "QARD-38847",
+      "type": "issue"
+    }
+  ],
+  "name": "FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow"
+  },
+  "stage": "finished",
+  "description": "QARD-38847\nTime Window Test Cases\n",
+  "steps": [
+    {
+      "name": "FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "b27630e4a91f492f999b6ebf92ec2f23-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1689170118005,
+      "stop": 1689170177232
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1689170118005,
+  "stop": 1689170177232
+}

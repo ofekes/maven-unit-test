@@ -1,0 +1,58 @@
+{
+  "uuid": "17840e24-bb1c-4de9-8255-ef9dbe416994-tc-0-1030",
+  "name": "FlowMatrixServiceTests.FlowMatrixServiceTests.SingleFlowMatrixSinglePositionTests.FlowMatrix_WhenPublishingOpenBuyPosition_VerifyFlowMatrixData",
+  "children": [
+    "fef888f2-81d6-4391-a9ef-3362a9c88ae5-tr-0-1031"
+  ],
+  "befores": [
+    {
+      "name": "TestBaseInitOnce",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689167177415,
+      "stop": 1689167177415
+    },
+    {
+      "name": "SetupAsync",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689167177415,
+      "stop": 1689167177415
+    },
+    {
+      "name": "FlowMatrixTestsSetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689167177415,
+      "stop": 1689167177415
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1689167117400,
+  "stop": 1689167177415
+}

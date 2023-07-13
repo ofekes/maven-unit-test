@@ -1,0 +1,40 @@
+--------------------------------------------------------
+in BaseSetUp
+--------------------------------------------------------
+InitFlowMatrixConsumer
+in FlowMatrixTestsSetUp
+TestStart time : 07/12/2023 12:50:28
+positionDateTime : 07/12/2023 12:50:28
+in wait for 0 seconds, time now is: 07/12/2023 12:50:28
+Done waiting for 0 seconds, time now is: 07/12/2023 12:50:28
+First close position with InstrumentID = 431903
+Send first position 07/12/2023 12:50:28
+Waiting for 3 seconds, time now is: 07/12/2023 12:50:28, message: Wait 3 sec after publishing the first position 07/12/2023 12:50:28
+Done waiting for 3 seconds, time now is: 07/12/2023 12:50:31
+Second close position with InstrumentID = 431903
+Send second position 07/12/2023 12:50:32
+Waiting for 3 seconds, time now is: 07/12/2023 12:50:32, message: Wait 3 sec after publishing the second position 07/12/2023 12:50:32
+Done waiting for 3 seconds, time now is: 07/12/2023 12:50:35
+Third close position with instrumentid = 588100
+Send third position 07/12/2023 12:50:35
+Send Dummy
+Round time in dummy from 07/12/2023 12:50:28 to 07/12/2023 12:51:00
+Waiting for 40 seconds, time now is: 07/12/2023 12:50:35, message: Wait Dummy untill 07/12/2023 12:51:15
+Done waiting for 40 seconds, time now is: 07/12/2023 12:51:15
+Send Dummy, time now: 07/12/2023 12:51:15
+Dummy details : 
+testPositionDateTime is: 07/12/2023 12:50:28 
+nextMinutePositionsTime is: 07/12/2023 12:51:00 
+releasePositionsTime is: 07/12/2023 12:51:15
+ 
+FlowMatrix Partition Count : 2
+Dummy InstrumentID =  : 431903
+Waiting for 3 seconds, time now is: 07/12/2023 12:51:15, message: After publishing Dummy 07/12/2023 12:51:15
+Done waiting for 3 seconds, time now is: 07/12/2023 12:51:18
+Send second dummy position 07/12/2023 12:51:18
+Waiting for 3 seconds, time now is: 07/12/2023 12:51:18, message: Wait 3 sec after publishing the second position 07/12/2023 12:51:18
+Done waiting for 3 seconds, time now is: 07/12/2023 12:51:21
+Send third dummy position 07/12/2023 12:51:21
+Waiting for 3 seconds, time now is: 07/12/2023 12:51:21, message: Wait 3 sec after publishing the third position 07/12/2023 12:51:21
+Done waiting for 3 seconds, time now is: 07/12/2023 12:51:24
+

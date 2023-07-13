@@ -1,0 +1,161 @@
+[ {
+  "buildOrder" : 67,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/67/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 36,
+    "retry" : 690
+  }
+}, {
+  "buildOrder" : 65,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/65/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 659
+  }
+}, {
+  "buildOrder" : 64,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/64/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 628
+  }
+}, {
+  "buildOrder" : 63,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/63/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 597
+  }
+}, {
+  "buildOrder" : 59,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/59/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 535
+  }
+}, {
+  "buildOrder" : 58,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/58/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 504
+  }
+}, {
+  "buildOrder" : 57,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/57/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 473
+  }
+}, {
+  "buildOrder" : 56,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/56/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 442
+  }
+}, {
+  "buildOrder" : 55,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/55/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 411
+  }
+}, {
+  "buildOrder" : 53,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/53/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 349
+  }
+}, {
+  "buildOrder" : 52,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/52/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 318
+  }
+}, {
+  "buildOrder" : 51,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/51/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 287
+  }
+}, {
+  "buildOrder" : 49,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/49/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 225
+  }
+}, {
+  "buildOrder" : 48,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/48/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 194
+  }
+}, {
+  "buildOrder" : 46,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/46/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 190
+  }
+}, {
+  "buildOrder" : 43,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/43/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 186
+  }
+}, {
+  "buildOrder" : 34,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/34/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 31,
+    "retry" : 186
+  }
+}, {
+  "buildOrder" : 32,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/32/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 31,
+    "retry" : 155
+  }
+}, {
+  "buildOrder" : 30,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/30/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 31,
+    "retry" : 124
+  }
+}, {
+  "buildOrder" : 24,
+  "reportUrl" : "http://tlv-jenkins-01.trad.local:8080/job/Dealing/job/Ops/job/AutomationCI/job/DealingOps-AutomationCI-test/24/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 31,
+    "retry" : 93
+  }
+} ]

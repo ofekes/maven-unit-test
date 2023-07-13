@@ -1,0 +1,58 @@
+{
+  "uuid": "31a3a513-9ef6-42e5-99f3-4898a23b3c47-tc-0-1000",
+  "name": "FlowMatrixServiceTests.TimeWindowTests.TimeWindowTests.FlowMatrix_WhenPublishingMixOfPositionsWithinTimeWindowBeforeAndAfter_VerifyFlowMatrixDataForPositionsWithinTimeWindow",
+  "children": [
+    "0a2dbd0f-1c73-48aa-8167-ccbe60b15904-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "TestBaseInitOnce",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689173057227,
+      "stop": 1689173057227
+    },
+    {
+      "name": "SetupAsync",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689173057227,
+      "stop": 1689173057227
+    },
+    {
+      "name": "FlowMatrixTestsSetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1689173057227,
+      "stop": 1689173057227
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1689172998066,
+  "stop": 1689173057227
+}

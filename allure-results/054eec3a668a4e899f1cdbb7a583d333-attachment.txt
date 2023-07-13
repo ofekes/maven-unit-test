@@ -1,0 +1,33 @@
+--------------------------------------------------------
+in BaseSetUp
+--------------------------------------------------------
+InitFlowMatrixConsumer
+in FlowMatrixTestsSetUp
+TestStart time : 07/12/2023 13:10:25
+positionDateTime : 07/12/2023 13:10:25
+in wait for 0 seconds, time now is: 07/12/2023 13:10:25
+Done waiting for 0 seconds, time now is: 07/12/2023 13:10:25
+Flow Matrix Window Time = 07/12/2023 13:10:00
+unixTime currentTimeWindow = 1689167402119
+unixTime afterTimeWindow = 1689167462119
+unixTime beforeTimeWindow = 1689167340119
+Close Position InstrumentID = 280234
+Last Position Time With Grace = 07/12/2023 13:11:02
+Waiting for 36 seconds, time now is: 07/12/2023 13:10:25, message: Wait untill 2 sec of Grace Time
+Done waiting for 36 seconds, time now is: 07/12/2023 13:11:01
+Send the last position at 07/12/2023 13:11:01
+Send Dummy
+Round time in dummy from 07/12/2023 13:10:25 to 07/12/2023 13:11:00
+Waiting for 13 seconds, time now is: 07/12/2023 13:11:01, message: Wait Dummy untill 07/12/2023 13:11:15
+Done waiting for 13 seconds, time now is: 07/12/2023 13:11:14
+Send Dummy, time now: 07/12/2023 13:11:14
+Dummy details : 
+testPositionDateTime is: 07/12/2023 13:10:25 
+nextMinutePositionsTime is: 07/12/2023 13:11:00 
+releasePositionsTime is: 07/12/2023 13:11:15
+ 
+FlowMatrix Partition Count : 2
+Dummy InstrumentID =  : 280234
+Waiting for 3 seconds, time now is: 07/12/2023 13:11:14, message: After publishing Dummy 07/12/2023 13:11:14
+Done waiting for 3 seconds, time now is: 07/12/2023 13:11:17
+
