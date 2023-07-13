@@ -6,19 +6,12 @@ pipeline {
             steps {
                 cleanWs()
                 checkout scm
-                sh 'mvn -D clean test'
             }
  
             post {                
                 // If Maven was able to run the tests, even if some of the test
                 // failed, record the test results and archive the jar file.
-                success { allure([
-                    includeProperties: true,
-                    jdk: '',
-                    properties: [[name: 'key1', value: 'value1'], [name: 'key2', value: 'value2']],
-                    reportBuildPolicy: 'ALWAYS',
-                    results: [[path: 'target/surefire-reports']]
-                ])
+               allure includeProperties: false, jdk: '', properties: [[key: 'allure.issues.tracker.pattern', value: 'https://etoro-jira.atlassian.net/browse/%s'], [key: 'allure.tests.management.pattern', value: 'https://github.com/eToro/DealingOps-FlowMatrix-Automation/']], results: [[path: 'allure-results']]
             }
          }
     }
